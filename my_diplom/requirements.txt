@@ -1,0 +1,6 @@
+selenium
+webdriver-manager
+requests
+pytest
+python-decouple
+allure
